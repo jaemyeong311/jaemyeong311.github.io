@@ -3,20 +3,21 @@ layout: about
 ---
 
 # About Me
-There is no specific format here. You can fill out the form you want.  
-For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
-I wrote "about me", "career", and "interests" on this page as an example.  
+건양대학교 의료IT공학과 2학년 조재명
 
 <br/>
 
 # Career
-* Second Company (2012/01 ~ )
-  * Web Application Firewall
-    * Developed TCP network acceleration module.
-    * Developde Application User Interface.
-* First Company (2011/01 ~ 2011/12)
-  * VPN Development Company
-  * Team Leader of VPN Development Div.
+* 2학년 1학기
+  * 성과전시회 - 우수상
+    * 안저이미지를 활용한 당뇨병성 망막병증 분류시스템
+    * Backend 개발을 맡음
+* 2학년 2학기
+  * 성과전시회
+    * x-ray 영상을 활용한 부비동염 분류시스템
+    * Backend 개발을 맡음
+  * [충남대학교 HUSS] 대전 건축 100 프로젝트 아이디어 공모전
+    * 본선 진출
 
 <br/>
 
